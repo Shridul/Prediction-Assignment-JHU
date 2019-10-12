@@ -1,6 +1,6 @@
 ---
 title: "Practical ML - Week 4"
-author: "Rishi Banerjee"
+author: "Shridul Sethi"
 date: "9 October 2019"
 output: html_document
 ---
